@@ -1,4 +1,4 @@
-import App from './Third.svelte';
+import App from './Fourth.svelte';
 
 const app = new App({
   target: document.body,
