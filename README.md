@@ -12,6 +12,28 @@
 
 <br />
 
+## Built With
+
+| Svelte |
+| :----: |
+
+```json
+"devDependencies": {
+  "@rollup/plugin-commonjs": "^17.0.0",
+  "@rollup/plugin-node-resolve": "^11.0.0",
+  "prettier": "^2.5.1",
+  "prettier-plugin-svelte": "^2.6.0",
+  "rollup": "^2.3.4",
+  "rollup-plugin-css-only": "^3.1.0",
+  "rollup-plugin-livereload": "^2.0.0",
+  "rollup-plugin-svelte": "^7.0.0",
+  "rollup-plugin-terser": "^7.0.0",
+  "svelte": "^3.0.0"
+}
+```
+
+<br />
+
 ## Getting Started
 
 #### Installation
@@ -19,11 +41,11 @@
 1. Clone the Repo
 
 ```
-git clone https://github.com/mnxmnz/Learning-Svelte.git
+git clone https://github.com/mnxmnz/Svelte-Practice.git
 ```
 
 ```
-cd Learning-Svelte
+cd Svelte-Practice
 ```
 
 2. Install Project Packages
